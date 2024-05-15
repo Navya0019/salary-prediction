@@ -119,11 +119,5 @@ X_new_reshaped = np.array(X_new).reshape(-1, 1)
 y_new_pred = linear_reg.predict(X_new_reshaped)
 print("Expected Salary is : ",y_new_pred)
 
-"""ASSIGNMENT SUBMITTED BY,
 
-1. NAVYA K R - 38223047
-2. FATHIMA SANA THACHAR KANDI - 38223032
-3. SALINI. A. P - 38223056
-4. SUJIL S - 38223066
-"""
 
